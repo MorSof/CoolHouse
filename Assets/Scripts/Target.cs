@@ -21,11 +21,11 @@ public class Target : MonoBehaviour
         }
 
         
-        Vector3 newPos = pos[Random.Range(0, pos.Length - 1)].position;
+        Vector3 newPos = pos[Random.Range(0, pos.Length)].position;
 
         while (newPos.x  == transform.position.x && newPos.z == transform.position.z)
         {
-            newPos = pos[Random.Range(0, pos.Length - 1)].position;
+            newPos = pos[Random.Range(0, pos.Length)].position;
             print("im in while" + newPos);
         }
 

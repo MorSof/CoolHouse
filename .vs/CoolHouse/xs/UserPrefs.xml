@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Target.cs">
     <Files>
       <File FileName="Assets/Scripts/TriggerDoor.cs" Line="18" Column="64" />
-      <File FileName="Assets/Scripts/PlayerMotion.cs" Line="19" Column="1" />
-      <File FileName="Assets/Scripts/Target.cs" Line="7" Column="14" />
+      <File FileName="Assets/Scripts/PlayerMotion.cs" />
+      <File FileName="Assets/Scripts/Target.cs" Line="7" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4b507009-5b0b-4357-ab98-7657c0b80467" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f8d2bdb-591f-4eac-a948-ca8ed3e0ee48" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
