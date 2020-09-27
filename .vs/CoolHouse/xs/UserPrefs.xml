@@ -3,7 +3,7 @@
     <Files>
       <File FileName="Assets/Scripts/TriggerDoor.cs" Line="18" Column="64" />
       <File FileName="Assets/Scripts/PlayerMotion.cs" />
-      <File FileName="Assets/Scripts/Target.cs" Line="7" Column="5" />
+      <File FileName="Assets/Scripts/Target.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
